@@ -1,4 +1,4 @@
-;;; cambridge-permute.el --- obfuscate text
+;;; mwe-cambridge-permute.el --- obfuscate text
 
 ;; Copyright (C) 2004  Free Software Foundation, Inc.
 
@@ -100,5 +100,5 @@ See also `mwe:cambridge-permute-region'."
     (goto-char re)))
 
 
-(provide 'cambridge-permute)
-;;; cambridge-permute.el ends here
+(provide 'mwe-cambridge-permute)
+;;; mwe-cambridge-permute.el ends here
